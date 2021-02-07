@@ -1,0 +1,89 @@
+[OPTIONS]
+Compiled file=../CodeDocumentation.chm
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Binary TOC=YES
+Title=DoxygenExample
+
+[WINDOWS]
+main="DoxygenExample","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x70387e,,,,,,,,0
+
+[FILES]
+addition_8c.html
+addition_8h.html
+addition_8h_source.html
+annotated.html
+classes.html
+dir_000002_000001.html
+dir_68267d1309a1af8e8297ef4c3efbcdba.html
+dir_bfccd401955b95cf8c75461437045ac0.html
+dir_f7010fc60e38917ecebc738bf4eaa75d.html
+division_8c.html
+division_8h.html
+division_8h_source.html
+files.html
+functions.html
+functions_vars.html
+globals.html
+globals_defs.html
+globals_enum.html
+globals_eval.html
+globals_func.html
+globals_vars.html
+graph_legend.html
+group___addition.html
+group___calculator.html
+group___division.html
+group___multiplication.html
+group___substraction.html
+index.html
+main_8c.html
+main_8h.html
+main_8h_source.html
+modules.html
+multiplication_8c.html
+multiplication_8h.html
+multiplication_8h_source.html
+page1.html
+page2.html
+pages.html
+struct_st___arithmetic_results.html
+substraction_8c.html
+substraction_8h.html
+substraction_8h_source.html
+UseCase.png
+addition_8c__incl.png
+addition_8h__dep__incl.png
+bc_s.png
+bdwn.png
+closed.png
+dir_68267d1309a1af8e8297ef4c3efbcdba_dep.png
+divide_a_by_b.png
+division_8c__incl.png
+division_8h__dep__incl.png
+graph_legend.png
+group___addition_ga5f24d7e648ffe5e45bb5ef6be2658858_icgraph.png
+group___calculator_ga840291bc02cba5474a4cb46a9b9566fe_cgraph.png
+group___division_ga7dc0e23eb94f9d3fa69996c2738a2a3c_icgraph.png
+group___multiplication_ga2b4859d035b6ab876620f9c3ac364219_icgraph.png
+group___substraction_gaf53797935cbcf6fc1dd380e3005f4ec1_icgraph.png
+main_8c__incl.png
+main_8h__dep__incl.png
+multiplication_8c__incl.png
+multiplication_8h__dep__incl.png
+nav_f.png
+nav_h.png
+open.png
+substraction_8c__incl.png
+substraction_8h__dep__incl.png
+sync_off.png
+sync_on.png
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png

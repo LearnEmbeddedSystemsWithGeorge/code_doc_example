@@ -1,0 +1,7 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main function." alt="" coords="5,81,56,108"/>
+<area shape="rect" id="node2" href="$group___substraction.html#gaf53797935cbcf6fc1dd380e3005f4ec1" title="Calculate the difference of two numbers." alt="" coords="104,5,283,32"/>
+<area shape="rect" id="node3" href="$group___division.html#ga7dc0e23eb94f9d3fa69996c2738a2a3c" title="Calculate the quotient of two numbers." alt="" coords="142,56,245,83"/>
+<area shape="rect" id="node4" href="$group___multiplication.html#ga2b4859d035b6ab876620f9c3ac364219" title="Calculate the product of two numbers." alt="" coords="135,107,251,133"/>
+<area shape="rect" id="node5" href="$group___addition.html#ga5f24d7e648ffe5e45bb5ef6be2658858" title="Calculate the sum of two numbers." alt="" coords="119,157,267,184"/>
+</map>
