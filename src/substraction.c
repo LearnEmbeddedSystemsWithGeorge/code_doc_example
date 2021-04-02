@@ -27,7 +27,7 @@ double difference_of_two_numbers(double minuend, double subtrahend)
 {
    double difference = 0;
 
-   difference = minuend = subtrahend;
+   difference = minuend - subtrahend;
 
    return difference;
 }
